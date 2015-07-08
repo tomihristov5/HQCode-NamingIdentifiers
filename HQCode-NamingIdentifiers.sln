@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People", "Task1\People.csproj", "{3D592EB8-9C8B-4843-9256-3BB4CF7AD60F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablePrinter", "BooleanToStringConvertor\VariablePrinter.csproj", "{17EC8DC8-BBE7-4DB2-8C21-AE09B70E6905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MozillaBrowser", "MozillaBrowser\MozillaBrowser.csproj", "{DACFE572-A1AC-4386-82F4-53BABE13F8E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper", "Minesweeper\Minesweeper.csproj", "{611DB683-663C-4B6C-A2DD-F6680FDF98F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D592EB8-9C8B-4843-9256-3BB4CF7AD60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D592EB8-9C8B-4843-9256-3BB4CF7AD60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D592EB8-9C8B-4843-9256-3BB4CF7AD60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D592EB8-9C8B-4843-9256-3BB4CF7AD60F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EC8DC8-BBE7-4DB2-8C21-AE09B70E6905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EC8DC8-BBE7-4DB2-8C21-AE09B70E6905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EC8DC8-BBE7-4DB2-8C21-AE09B70E6905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EC8DC8-BBE7-4DB2-8C21-AE09B70E6905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DACFE572-A1AC-4386-82F4-53BABE13F8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACFE572-A1AC-4386-82F4-53BABE13F8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACFE572-A1AC-4386-82F4-53BABE13F8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACFE572-A1AC-4386-82F4-53BABE13F8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611DB683-663C-4B6C-A2DD-F6680FDF98F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611DB683-663C-4B6C-A2DD-F6680FDF98F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611DB683-663C-4B6C-A2DD-F6680FDF98F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611DB683-663C-4B6C-A2DD-F6680FDF98F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
